@@ -13,5 +13,9 @@ public class App2
     	log.info("Hello this is an info message");
     	log.info("Hello this ia an info mesage from ranjeev");
     	log.info("Hello this changed has been done by software engineer");
+    	log.debug("Hello this is a debug message");
+    	log.info("Hello this is an info message");
+    	log.info("Hello this ia an info mesage from ranjeev");
+    	log.info("Hello this changed has been done by software engineer");
     }
 }
